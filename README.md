@@ -11,7 +11,6 @@ I'm front-end developer using web and mobile.<img src="https://user-images.githu
 
 <a href="https://velog.io/@devyang" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:motokrzr11@gmail.com"><img src="https://img.shields.io/badge/motokrzr11@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://blog.naver.com/motokrzr11" target="_blank"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ## ⚡ Technologies
 Techs that i've used at least once.  
