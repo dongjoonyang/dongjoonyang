@@ -1,16 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Dev.%20Yang&fontSize=90)
 
 ## Hi I'm DongJoon Yang 👋
-***
-I'm front-end developer using web and mobile.
+I'm front-end developer using web and mobile.   
 
-Currently, I am interested in React.
-The ultimate goal is to create a React-native app.
+Currently, I am interested in React.   
+The ultimate goal is to create a React-native app.   
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 
 ## ⚡ Technologies
-***
-Techs that i've used at least once
+Techs that i've used at least once   
 
 
 <!--
