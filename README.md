@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Dev.%20Yang&fontSize=90)
 
-## Hi I'm DongJoon Yang 👋![wave](https://user-images.githubusercontent.com/72136213/200981438-4a73f3dc-7253-4e1e-b219-ca30a966c864.gif = 20x20)
+## Hi I'm DongJoon Yang <img src="https://user-images.githubusercontent.com/72136213/200981438-4a73f3dc-7253-4e1e-b219-ca30a966c864.gif" width="30" height="30">
 I'm front-end developer using web and mobile.   
+
 
 Currently, I am interested in React.   
 The ultimate goal is to create a React-native app.   
