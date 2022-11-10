@@ -6,7 +6,7 @@ I'm front-end developer using web and mobile.
 Currently, I am interested in React.   
 The ultimate goal is to create a React-native app.   
 
-<img src="https://img.shields.io/badge/sssss-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:motokrzr11@gmail.com"><img src="https://img.shields.io/badge/motokrzr11@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 ## ⚡ Technologies
