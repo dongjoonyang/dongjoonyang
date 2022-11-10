@@ -6,6 +6,7 @@ I'm front-end developer using web and mobile.
 Currently, I am interested in React.   
 The ultimate goal is to create a React-native app.   
 
+<a href="https://velog.io/@devyang" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:motokrzr11@gmail.com"><img src="https://img.shields.io/badge/motokrzr11@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
