@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Dev.%20Yang&fontSize=90)
 
-<img src="https://user-images.githubusercontent.com/72136213/200981438-4a73f3dc-7253-4e1e-b219-ca30a966c864.gif" width="30" height="30"> ## Hi I'm DongJoon Yang <img src="https://user-images.githubusercontent.com/72136213/200981438-4a73f3dc-7253-4e1e-b219-ca30a966c864.gif" width="30" height="30">   
+<img src="https://user-images.githubusercontent.com/72136213/201080561-4a464a32-9af6-4d7c-b942-0bb8e469fdcc.gif" width="30" height="30"> ## Hi I'm DongJoon Yang <img src="https://user-images.githubusercontent.com/72136213/200981438-4a73f3dc-7253-4e1e-b219-ca30a966c864.gif" width="30" height="30">   
 
 I'm front-end developer using web and mobile.   
 
